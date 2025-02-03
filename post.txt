@@ -1,0 +1,7 @@
+{
+    "name": "Nome do evento",
+    "data": "2025-01-04",  // Corrigido de "date" para "data"
+    "hour": 19,
+    "description": "Esta é uma descrição",
+    "value": 199
+}
